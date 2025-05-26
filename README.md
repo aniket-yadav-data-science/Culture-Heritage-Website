@@ -1,4 +1,4 @@
-# Culture-Heritage-Website
+# Culture-Heritage-Website (1st Hackathon)
 Discover Incredible India 
 <br>
 ( An App to Explore Culture, Cuisine, tradition and Heritage )
